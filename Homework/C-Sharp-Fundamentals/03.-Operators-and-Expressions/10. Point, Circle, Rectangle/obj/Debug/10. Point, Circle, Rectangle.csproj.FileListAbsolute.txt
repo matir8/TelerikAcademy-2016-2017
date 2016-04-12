@@ -1,0 +1,9 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\bin\Debug\_10.Point__Circle__Rectangle.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\bin\Debug\_10.Point__Circle__Rectangle.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\bin\Debug\_10.Point__Circle__Rectangle.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\obj\Debug\10. Point, Circle, Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\obj\Debug\_10.Point__Circle__Rectangle.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\obj\Debug\_10.Point__Circle__Rectangle.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\bin\Debug\_10.Point__Circle__Rectangle.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\obj\Debug\_10.Point__Circle__Rectangle.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\10. Point, Circle, Rectangle\obj\Debug\_10.Point__Circle__Rectangle.pdb

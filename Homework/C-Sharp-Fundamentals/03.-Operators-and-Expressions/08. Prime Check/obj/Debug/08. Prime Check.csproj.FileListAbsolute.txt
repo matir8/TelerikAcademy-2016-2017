@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\08. Prime Check\bin\Debug\_08.Prime_Check.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\08. Prime Check\bin\Debug\_08.Prime_Check.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\08. Prime Check\bin\Debug\_08.Prime_Check.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\08. Prime Check\obj\Debug\08. Prime Check.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\08. Prime Check\obj\Debug\_08.Prime_Check.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\08. Prime Check\obj\Debug\_08.Prime_Check.pdb
