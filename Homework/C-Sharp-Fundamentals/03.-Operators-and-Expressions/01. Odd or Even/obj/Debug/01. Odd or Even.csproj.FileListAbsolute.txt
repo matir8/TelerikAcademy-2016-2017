@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\01. Odd or Even\bin\Debug\_01.Odd_or_Even.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\01. Odd or Even\bin\Debug\_01.Odd_or_Even.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\01. Odd or Even\bin\Debug\_01.Odd_or_Even.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\01. Odd or Even\obj\Debug\01. Odd or Even.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\01. Odd or Even\obj\Debug\_01.Odd_or_Even.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\01. Odd or Even\obj\Debug\_01.Odd_or_Even.pdb

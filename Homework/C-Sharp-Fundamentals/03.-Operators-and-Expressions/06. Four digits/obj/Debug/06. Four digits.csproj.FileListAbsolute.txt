@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\06. Four digits\bin\Debug\_06.Four_digits.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\06. Four digits\obj\Debug\06. Four digits.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\06. Four digits\bin\Debug\_06.Four_digits.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\06. Four digits\bin\Debug\_06.Four_digits.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\06. Four digits\obj\Debug\_06.Four_digits.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\03. Operators and Expressions\03. Operators and Expressions\06. Four digits\obj\Debug\_06.Four_digits.pdb
