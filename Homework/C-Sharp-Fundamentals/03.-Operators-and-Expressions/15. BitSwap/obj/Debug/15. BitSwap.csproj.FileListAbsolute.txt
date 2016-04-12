@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\15. BitSwap\bin\Debug\_15.BitSwap.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\15. BitSwap\obj\Debug\15. BitSwap.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\15. BitSwap\bin\Debug\_15.BitSwap.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\15. BitSwap\bin\Debug\_15.BitSwap.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\15. BitSwap\obj\Debug\_15.BitSwap.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\03. Operators and Expressions\03. Operators and Expressions\15. BitSwap\obj\Debug\_15.BitSwap.pdb
