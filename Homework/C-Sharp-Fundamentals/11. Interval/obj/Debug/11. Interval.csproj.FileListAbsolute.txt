@@ -1,6 +1,0 @@
-C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\11. Interval\bin\Debug\_11.Interval.exe.config
-C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\11. Interval\obj\Debug\11. Interval.csprojResolveAssemblyReference.cache
-C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\11. Interval\bin\Debug\_11.Interval.exe
-C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\11. Interval\bin\Debug\_11.Interval.pdb
-C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\11. Interval\obj\Debug\_11.Interval.exe
-C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\11. Interval\obj\Debug\_11.Interval.pdb
