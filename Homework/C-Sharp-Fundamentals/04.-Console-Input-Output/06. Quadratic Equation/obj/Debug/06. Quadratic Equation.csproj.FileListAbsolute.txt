@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\04. Console Input and Output\04. Console I-O\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.pdb
