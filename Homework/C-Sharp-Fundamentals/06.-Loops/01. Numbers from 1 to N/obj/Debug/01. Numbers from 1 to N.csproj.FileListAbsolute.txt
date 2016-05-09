@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\01. Numbers from 1 to N\obj\Debug\01. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.pdb
