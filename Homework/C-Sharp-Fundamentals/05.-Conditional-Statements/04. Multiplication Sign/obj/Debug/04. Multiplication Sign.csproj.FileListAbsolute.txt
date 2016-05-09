@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.pdb

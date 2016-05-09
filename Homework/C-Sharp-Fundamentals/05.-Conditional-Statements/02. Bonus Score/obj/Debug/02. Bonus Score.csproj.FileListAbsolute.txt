@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\02. Bonus Score\bin\Debug\_02.Bonus_Score.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\02. Bonus Score\obj\Debug\_02.Bonus_Score.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\05. Conditional-Statements\05. Conditional-Statements\02. Bonus Score\obj\Debug\_02.Bonus_Score.pdb
