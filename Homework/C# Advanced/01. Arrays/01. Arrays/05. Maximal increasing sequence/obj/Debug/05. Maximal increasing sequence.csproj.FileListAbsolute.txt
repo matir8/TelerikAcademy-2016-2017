@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\05. Maximal increasing sequence\bin\Debug\_05.Maximal_increasing_sequence.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\05. Maximal increasing sequence\bin\Debug\_05.Maximal_increasing_sequence.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\05. Maximal increasing sequence\bin\Debug\_05.Maximal_increasing_sequence.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\05. Maximal increasing sequence\obj\Debug\_05.Maximal_increasing_sequence.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\05. Maximal increasing sequence\obj\Debug\_05.Maximal_increasing_sequence.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\05. Maximal increasing sequence\obj\Debug\05. Maximal increasing sequence.csprojResolveAssemblyReference.cache

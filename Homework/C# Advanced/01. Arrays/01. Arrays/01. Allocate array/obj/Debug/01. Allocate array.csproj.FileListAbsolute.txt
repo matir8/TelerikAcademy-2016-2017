@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.pdb

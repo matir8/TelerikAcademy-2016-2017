@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\14. Quick Sort\obj\Debug\14. Quick Sort.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\14. Quick Sort\obj\Debug\_14.Quick_Sort.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\14. Quick Sort\obj\Debug\_14.Quick_Sort.pdb

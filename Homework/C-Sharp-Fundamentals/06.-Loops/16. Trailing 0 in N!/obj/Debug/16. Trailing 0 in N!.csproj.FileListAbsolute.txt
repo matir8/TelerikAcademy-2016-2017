@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\16. Trailing 0 in N!\bin\Debug\_16.Trailing_0_in_N_.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\16. Trailing 0 in N!\bin\Debug\_16.Trailing_0_in_N_.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\16. Trailing 0 in N!\bin\Debug\_16.Trailing_0_in_N_.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\16. Trailing 0 in N!\obj\Debug\16. Trailing 0 in N!.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\16. Trailing 0 in N!\obj\Debug\_16.Trailing_0_in_N_.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\16. Trailing 0 in N!\obj\Debug\_16.Trailing_0_in_N_.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\09. Matrix of Numbers\obj\Debug\_09.Matrix_of_Numbers.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\09. Matrix of Numbers\obj\Debug\_09.Matrix_of_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\06. Maximal K sum\obj\Debug\06. Maximal K sum.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.pdb

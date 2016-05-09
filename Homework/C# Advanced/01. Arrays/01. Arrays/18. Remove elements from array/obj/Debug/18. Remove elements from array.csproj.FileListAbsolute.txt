@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\18. Remove elements from array\obj\Debug\18. Remove elements from array.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\18. Remove elements from array\obj\Debug\_18.Remove_elements_from_array.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\01. Arrays\01. Arrays\18. Remove elements from array\obj\Debug\_18.Remove_elements_from_array.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\06. Calculate Again!\bin\Debug\_06.Calculate_Again_.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\06. Calculate Again!\bin\Debug\_06.Calculate_Again_.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\06. Calculate Again!\bin\Debug\_06.Calculate_Again_.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\06. Calculate Again!\obj\Debug\_06.Calculate_Again_.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\06. Calculate Again!\obj\Debug\_06.Calculate_Again_.pdb
