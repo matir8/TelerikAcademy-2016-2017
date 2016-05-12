@@ -1,0 +1,32 @@
+div {
+	background-color: #4f4d4d;
+	color:white;
+	width: 350px;
+	height: 300px;
+}
+
+h1 {
+	color: #999797;
+}
+
+#support {
+	font-weight: bold;
+	color: red;
+}
+
+#time {
+	color: #999797;
+}
+
+#status {
+	color: #999797;
+}
+
+#answer {
+	color: darkorange;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
