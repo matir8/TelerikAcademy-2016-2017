@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\07. Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\07. Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\07. Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\07. Exception Handling\02. Enter numbers\obj\Debug\02. Enter numbers.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\07. Exception Handling\02. Enter numbers\obj\Debug\_02.Enter_numbers.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\07. Exception Handling\02. Enter numbers\obj\Debug\_02.Enter_numbers.pdb

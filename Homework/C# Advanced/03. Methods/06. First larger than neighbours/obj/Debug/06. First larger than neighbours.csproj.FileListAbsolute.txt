@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.pdb

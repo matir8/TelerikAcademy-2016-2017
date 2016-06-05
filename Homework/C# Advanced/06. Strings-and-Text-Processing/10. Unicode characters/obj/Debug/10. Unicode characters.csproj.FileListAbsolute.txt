@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\10. Unicode characters\obj\Debug\10. Unicode characters.csprojResolveAssemblyReference.cache

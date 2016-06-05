@@ -1,0 +1,1 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\04. Numeral-Systems\06. Binary to hexadecimal\bin\Debug\_06.Binary_to_hexadecimal.exe.config

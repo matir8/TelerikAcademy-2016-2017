@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\01. Say Hello\bin\Debug\_01.Say_Hello.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\01. Say Hello\bin\Debug\_01.Say_Hello.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\01. Say Hello\bin\Debug\_01.Say_Hello.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\01. Say Hello\obj\Debug\01. Say Hello.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\01. Say Hello\obj\Debug\_01.Say_Hello.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\01. Say Hello\obj\Debug\_01.Say_Hello.pdb

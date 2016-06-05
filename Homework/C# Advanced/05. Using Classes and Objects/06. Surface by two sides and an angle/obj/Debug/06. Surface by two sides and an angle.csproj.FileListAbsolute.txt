@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\06. Surface by two sides and an angle\bin\Debug\_06.Surface_by_two_sides_and_an_angle.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\06. Surface by two sides and an angle\bin\Debug\_06.Surface_by_two_sides_and_an_angle.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\06. Surface by two sides and an angle\bin\Debug\_06.Surface_by_two_sides_and_an_angle.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\06. Surface by two sides and an angle\obj\Debug\_06.Surface_by_two_sides_and_an_angle.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\06. Surface by two sides and an angle\obj\Debug\_06.Surface_by_two_sides_and_an_angle.pdb

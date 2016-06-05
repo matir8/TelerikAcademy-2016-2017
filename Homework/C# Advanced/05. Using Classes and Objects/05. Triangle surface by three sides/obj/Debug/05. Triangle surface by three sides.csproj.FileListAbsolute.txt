@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\05. Triangle surface by three sides\bin\Debug\_05.Triangle_surface_by_three_sides.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\05. Triangle surface by three sides\bin\Debug\_05.Triangle_surface_by_three_sides.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\05. Triangle surface by three sides\bin\Debug\_05.Triangle_surface_by_three_sides.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\05. Triangle surface by three sides\obj\Debug\_05.Triangle_surface_by_three_sides.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\05. Using Classes and Objects\05. Triangle surface by three sides\obj\Debug\_05.Triangle_surface_by_three_sides.pdb

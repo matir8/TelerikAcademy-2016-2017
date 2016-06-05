@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\03. Correct brackets\obj\Debug\03. Correct brackets.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\03. Correct brackets\obj\Debug\_03.Correct_brackets.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\03. Correct brackets\obj\Debug\_03.Correct_brackets.pdb

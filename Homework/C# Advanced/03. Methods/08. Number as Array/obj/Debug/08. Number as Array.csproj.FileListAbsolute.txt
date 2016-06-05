@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\08. Number as Array\bin\Debug\_08.Number_as_Array.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\08. Number as Array\bin\Debug\_08.Number_as_Array.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\08. Number as Array\bin\Debug\_08.Number_as_Array.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\08. Number as Array\obj\Debug\08. Number as Array.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\08. Number as Array\obj\Debug\_08.Number_as_Array.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\08. Number as Array\obj\Debug\_08.Number_as_Array.pdb

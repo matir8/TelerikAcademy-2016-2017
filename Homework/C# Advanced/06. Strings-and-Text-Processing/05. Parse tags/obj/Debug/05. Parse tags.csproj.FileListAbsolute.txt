@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\05. Parse tags\bin\Debug\_05.Parse_tags.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\05. Parse tags\bin\Debug\_05.Parse_tags.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\05. Parse tags\bin\Debug\_05.Parse_tags.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\05. Parse tags\obj\Debug\05. Parse tags.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\05. Parse tags\obj\Debug\_05.Parse_tags.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\05. Parse tags\obj\Debug\_05.Parse_tags.pdb

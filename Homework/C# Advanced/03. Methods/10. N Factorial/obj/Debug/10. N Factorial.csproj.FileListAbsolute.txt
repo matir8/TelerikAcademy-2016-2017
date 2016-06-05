@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\10. N Factorial\bin\Debug\_10.N_Factorial.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\10. N Factorial\bin\Debug\_10.N_Factorial.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\10. N Factorial\bin\Debug\_10.N_Factorial.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\10. N Factorial\obj\Debug\_10.N_Factorial.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\10. N Factorial\obj\Debug\_10.N_Factorial.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\10. N Factorial\obj\Debug\10. N Factorial.csprojResolveAssemblyReference.cache

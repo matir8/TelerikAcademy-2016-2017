@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb

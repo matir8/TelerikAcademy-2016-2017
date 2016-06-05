@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Reverse string", "02. Reverse string\02. Reverse string.csproj", "{1249EBFC-683A-4055-926A-14DCAB918D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Correct brackets", "03. Correct brackets\03. Correct brackets.csproj", "{870A439C-9A80-42BC-B7CA-F8CCDCCF6CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sub-string in text", "04. Sub-string in text\04. Sub-string in text.csproj", "{B5797B6E-FE73-4C94-B5F9-0BF6620D03BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Parse tags", "05. Parse tags\05. Parse tags.csproj", "{A89BA677-B9F1-4C86-B22A-2B052889FE9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. String length", "06. String length\06. String length.csproj", "{F9AF8881-C952-471B-9519-16137CB71B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Extract sentences", "08. Extract sentences\08. Extract sentences.csproj", "{D266BD86-45DD-46B4-A1BD-3FC05B7E90C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Unicode characters", "10. Unicode characters\10. Unicode characters.csproj", "{173E92B7-22B5-4740-BEFB-5EEEE428B10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Parse URL", "12. Parse URL\12. Parse URL.csproj", "{629FF270-A963-4784-B340-2402FB26D896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Series of letters", "13. Series of letters\13. Series of letters.csproj", "{8F851556-5414-4254-8B08-BDF456F1A1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Replace tags", "15. Replace tags\15. Replace tags.csproj", "{1B7C5558-3B3C-48C4-B77E-6455EE4EFEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Replace tags with regex", "15. Replace tags with regex\15. Replace tags with regex.csproj", "{A04A3ECA-B7EE-4268-8302-3834C5830A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1249EBFC-683A-4055-926A-14DCAB918D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1249EBFC-683A-4055-926A-14DCAB918D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1249EBFC-683A-4055-926A-14DCAB918D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1249EBFC-683A-4055-926A-14DCAB918D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870A439C-9A80-42BC-B7CA-F8CCDCCF6CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870A439C-9A80-42BC-B7CA-F8CCDCCF6CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870A439C-9A80-42BC-B7CA-F8CCDCCF6CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870A439C-9A80-42BC-B7CA-F8CCDCCF6CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5797B6E-FE73-4C94-B5F9-0BF6620D03BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5797B6E-FE73-4C94-B5F9-0BF6620D03BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5797B6E-FE73-4C94-B5F9-0BF6620D03BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5797B6E-FE73-4C94-B5F9-0BF6620D03BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89BA677-B9F1-4C86-B22A-2B052889FE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89BA677-B9F1-4C86-B22A-2B052889FE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89BA677-B9F1-4C86-B22A-2B052889FE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89BA677-B9F1-4C86-B22A-2B052889FE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AF8881-C952-471B-9519-16137CB71B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AF8881-C952-471B-9519-16137CB71B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AF8881-C952-471B-9519-16137CB71B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AF8881-C952-471B-9519-16137CB71B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D266BD86-45DD-46B4-A1BD-3FC05B7E90C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D266BD86-45DD-46B4-A1BD-3FC05B7E90C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D266BD86-45DD-46B4-A1BD-3FC05B7E90C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D266BD86-45DD-46B4-A1BD-3FC05B7E90C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173E92B7-22B5-4740-BEFB-5EEEE428B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173E92B7-22B5-4740-BEFB-5EEEE428B10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173E92B7-22B5-4740-BEFB-5EEEE428B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173E92B7-22B5-4740-BEFB-5EEEE428B10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629FF270-A963-4784-B340-2402FB26D896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629FF270-A963-4784-B340-2402FB26D896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629FF270-A963-4784-B340-2402FB26D896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629FF270-A963-4784-B340-2402FB26D896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F851556-5414-4254-8B08-BDF456F1A1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F851556-5414-4254-8B08-BDF456F1A1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F851556-5414-4254-8B08-BDF456F1A1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F851556-5414-4254-8B08-BDF456F1A1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B7C5558-3B3C-48C4-B77E-6455EE4EFEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7C5558-3B3C-48C4-B77E-6455EE4EFEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7C5558-3B3C-48C4-B77E-6455EE4EFEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7C5558-3B3C-48C4-B77E-6455EE4EFEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04A3ECA-B7EE-4268-8302-3834C5830A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04A3ECA-B7EE-4268-8302-3834C5830A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04A3ECA-B7EE-4268-8302-3834C5830A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04A3ECA-B7EE-4268-8302-3834C5830A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

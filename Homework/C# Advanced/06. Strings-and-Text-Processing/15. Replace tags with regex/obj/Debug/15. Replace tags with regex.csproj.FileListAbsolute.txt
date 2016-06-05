@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\15. Replace tags with regex\bin\Debug\_15.Replace_tags_with_regex.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\15. Replace tags with regex\bin\Debug\_15.Replace_tags_with_regex.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\15. Replace tags with regex\bin\Debug\_15.Replace_tags_with_regex.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\15. Replace tags with regex\obj\Debug\_15.Replace_tags_with_regex.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\06. Strings-and-Text-Processing\15. Replace tags with regex\obj\Debug\_15.Replace_tags_with_regex.pdb

@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\07. Reverse number\obj\Debug\07. Reverse number.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\07. Reverse number\obj\Debug\_07.Reverse_number.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Advanced\03. Methods\07. Reverse number\obj\Debug\_07.Reverse_number.pdb
