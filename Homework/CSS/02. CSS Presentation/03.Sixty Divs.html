@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sixty nested divs</title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        div {
+            width: 97%;
+        }
+
+        .bordered { /*boder on every third "div" */
+            background-color: black;
+            border: 2px solid red;
+            border-radius: 100px;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        
+        var sixtyDivs = "";
+        for (var i = 0; i < 20; i++) {
+            sixtyDivs += "<div class=\"bordered\"> <div> <div>";
+        }
+        for (var i = 0; i < 60; i++) {
+            sixtyDivs += "</div>";
+        }
+        document.body.innerHTML = sixtyDivs;
+    </script>    
+</body>
+</html>
