@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\16.Long Sequence\bin\Debug\16.Long Sequence.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\16.Long Sequence\bin\Debug\16.Long Sequence.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\16.Long Sequence\bin\Debug\16.Long Sequence.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\16.Long Sequence\obj\Debug\16.Long Sequence.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\16.Long Sequence\obj\Debug\16.Long Sequence.pdb

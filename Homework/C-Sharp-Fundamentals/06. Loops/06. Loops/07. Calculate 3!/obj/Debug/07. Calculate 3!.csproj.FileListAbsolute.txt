@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\07. Calculate 3!\bin\Debug\_07.Calculate_3_.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\07. Calculate 3!\bin\Debug\_07.Calculate_3_.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\07. Calculate 3!\bin\Debug\_07.Calculate_3_.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\07. Calculate 3!\obj\Debug\07. Calculate 3!.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\07. Calculate 3!\obj\Debug\_07.Calculate_3_.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\07. Calculate 3!\obj\Debug\_07.Calculate_3_.pdb

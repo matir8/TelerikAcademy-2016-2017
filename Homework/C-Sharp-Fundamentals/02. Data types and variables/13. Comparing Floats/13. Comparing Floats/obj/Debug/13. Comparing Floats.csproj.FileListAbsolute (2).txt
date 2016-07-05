@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\13. Comparing Floats\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\13. Comparing Floats\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\13. Comparing Floats\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\13. Comparing Floats\13. Comparing Floats\obj\Debug\13. Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\13. Comparing Floats\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\13. Comparing Floats\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

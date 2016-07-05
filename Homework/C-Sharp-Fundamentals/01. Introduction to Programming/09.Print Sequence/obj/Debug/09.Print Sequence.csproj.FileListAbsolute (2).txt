@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\09.Print Sequence\bin\Debug\09.Print Sequence.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\09.Print Sequence\bin\Debug\09.Print Sequence.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\09.Print Sequence\bin\Debug\09.Print Sequence.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\09.Print Sequence\obj\Debug\09.Print Sequence.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\09.Print Sequence\obj\Debug\09.Print Sequence.pdb

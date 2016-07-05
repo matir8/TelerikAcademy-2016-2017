@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\01.Hello World\bin\Debug\01.Hello World.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\01.Hello World\bin\Debug\01.Hello World.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\01.Hello World\bin\Debug\01.Hello World.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\01.Hello World\obj\Debug\01.Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\01.Hello World\obj\Debug\01.Hello World.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\01. Introduction to Programming\01.Hello World\obj\Debug\01.Hello World.pdb

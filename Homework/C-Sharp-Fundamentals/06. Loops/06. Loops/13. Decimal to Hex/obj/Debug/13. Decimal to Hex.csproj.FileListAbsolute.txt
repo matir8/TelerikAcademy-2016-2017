@@ -1,0 +1,6 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\13. Decimal to Hex\bin\Debug\_13.Decimal_to_Hex.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\13. Decimal to Hex\bin\Debug\_13.Decimal_to_Hex.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\13. Decimal to Hex\bin\Debug\_13.Decimal_to_Hex.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\13. Decimal to Hex\obj\Debug\13. Decimal to Hex.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\13. Decimal to Hex\obj\Debug\_13.Decimal_to_Hex.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\C# Fundamentals\06. Loops\06. Loops\13. Decimal to Hex\obj\Debug\_13.Decimal_to_Hex.pdb

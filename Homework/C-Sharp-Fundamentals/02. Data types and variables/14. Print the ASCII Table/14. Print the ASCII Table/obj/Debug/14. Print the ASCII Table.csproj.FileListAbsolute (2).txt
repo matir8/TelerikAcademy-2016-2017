@@ -1,0 +1,5 @@
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\14. Print the ASCII Table\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\14. Print the ASCII Table\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\14. Print the ASCII Table\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\14. Print the ASCII Table\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\Martin\Dropbox\Code\TelerikAcademy\Homework\02. Data types and variables\14. Print the ASCII Table\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
